@@ -31,14 +31,7 @@ A complete full-stack web application for displaying products (smartphones) with
 │   ├── package.json
 │   └── server.js              # Express server
 └── frontend/
-    ├── js/
-    │   ├── products.js        # Product listing logic
-    │   ├── product.js         # Product detail logic
-    │   └── upload.js          # Product upload logic
-    ├── index.html             # Product listing page
-    ├── product.html           # Product detail page
-    └── upload.html            # Admin upload page
-```
+
 
 ## 🛠️ Technologies Used
 
